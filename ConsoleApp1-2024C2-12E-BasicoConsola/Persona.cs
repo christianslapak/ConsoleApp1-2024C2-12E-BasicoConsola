@@ -13,6 +13,8 @@ namespace ConsoleApp1_2024C2_12E_BasicoConsola
         public string Apellido { get; set; }
         public string Nombre { get; set; }
 
+        public DateTime FechaNac { get; set; }
+
         public string MostrarDatos()
         {
             string mensaje;
