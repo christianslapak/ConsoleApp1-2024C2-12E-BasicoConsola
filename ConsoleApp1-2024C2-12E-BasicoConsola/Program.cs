@@ -8,8 +8,8 @@
             Persona p = new Persona();
 
             p.DNI = 12456889;
-            p.Apellido = "Martinez";
-            p.Nombre = "Daniel";
+            p.Apellido = "Gonzales";
+            p.Nombre = "Marcela";
 
             Console.WriteLine(p.MostrarDatos());
 
