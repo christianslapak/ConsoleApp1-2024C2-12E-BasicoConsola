@@ -8,5 +8,6 @@ namespace ConsoleApp1_2024C2_12E_BasicoConsola
 {
     internal class Alumno
     {
+        public int NroLegajo { get; set; }
     }
 }
